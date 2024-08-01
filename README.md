@@ -15,8 +15,7 @@
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/-NoSQL-E34F26?style=flat-square&logo=nosql&logoColor=white" alt="NoSQL" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/-Vivado-F68D2E?style=flat-square&logo=xilinx&logoColor=white" alt="Vivado" />
+
 </p>
 
 ## GitHub Stats
